@@ -1,0 +1,13 @@
+# Model artifacts
+artifacts/
+
+# Keras / TensorFlow models
+*.h5
+*.keras
+
+# Keras tuner
+keras-tuner/
+
+# Python cache
+__pycache__/
+*.pyc
